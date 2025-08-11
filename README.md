@@ -1,0 +1,2 @@
+# URDF_Tool
+一个用于在Blender中创建和编辑URDF（Unified Robot Description Format）文件的插件工具。该插件简化了使用Phobos插件制作铰接数据的创建流程，提供了在一个插件界面上完整的URDF工作流程支持。
